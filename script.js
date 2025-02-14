@@ -11,3 +11,4 @@ document.getElementById('contact-button').addEventListener('click', function(eve
     event.preventDefault();
     window.location.href = 'contact.html';
 });
+
